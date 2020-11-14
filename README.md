@@ -1,5 +1,7 @@
 ### Hi there, I am Emirhan.
 
+[![Spotify](https://duckbuddyy.vercel.app/api/spotify)](https://open.spotify.com/user/iso25s54xqoil0c8zjmrsdsye)
+
 <!--
 **Duckbuddyy/duckbuddyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
